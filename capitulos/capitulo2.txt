@@ -1,0 +1,4 @@
+O fluxo de traballo básico con Git consiste en:
+Facer cambios no repositorio.
+Engadir os cambios á zona de intercambio temporal.
+Facer un commit dos cambios.
